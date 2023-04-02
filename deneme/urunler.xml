@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urunler>
+  <urun>
+    <urun_adi>Samsung Telefon</urun_adi>
+    <urun_fiyati>1</urun_fiyati>
+  </urun>
+  <urun>
+    <urun_adi>Iphone Telefon</urun_adi>
+    <urun_fiyati>4000</urun_fiyati>
+  </urun>
+  <urun>
+    <urun_adi>Masaustu PC</urun_adi>
+    <urun_fiyati>4999</urun_fiyati>
+  </urun>
+  <urun>
+    <urun_adi>Laptop</urun_adi>
+    <urun_fiyati>5999</urun_fiyati>
+  </urun>
+</urunler>
