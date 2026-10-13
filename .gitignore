@@ -361,3 +361,15 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+.DS_Store
+.idea/
+*.iml
+xcuserdata/
+local.properties
+google-services.json
+GoogleService-Info.plist
+.env
+.env.*
+bin/
+obj/
+build/
